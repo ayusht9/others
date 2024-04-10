@@ -1,0 +1,7 @@
+! 2024-04-10 https://www.overleaf.com
+www.overleaf.com##.alert-info.alert
+www.overleaf.com##.hidden-xs > .current-plan > .hidden-xs.current-plan-label
+www.overleaf.com##.hidden-xs > .current-plan > .btn-primary.btn.hidden-xs
+www.overleaf.com##.navbar-right.navbar-nav.nav > li.subdued.dropdown > .dropdown-toggle
+www.overleaf.com##li.subdued:nth-of-type(3)
+
